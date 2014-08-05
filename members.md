@@ -1,4 +1,4 @@
-# Roster -- Learn Programming Mentoring Community
+﻿# Roster -- Learn Programming Mentoring Community
 ## Mentor Roster
 
 | **Title** | **Name** | **GitHub** | **Reddit** | **Languages** |
@@ -192,6 +192,7 @@ Format:
 | Martin Pasko | [smartly23](https://github.com/smartly23) ||
 | Mathieu Hendey | [mathieuhendey](https://github.com/mathieuhendey) ||
 | Matt Adelman | [adelman](https://github.com/adelman) | I know, and am fairly proficient in a few languages and am looking to get into the open source community. |
+| Matt Bankston | [mbankston](https://github.com/mbankston) | A complete beginner. | 
 | Matt Enright | [enrDiggityTwo](https://github.com/enrDiggityTwo) | Been learning a bit of Python, Ruby and Javascript, but still kind of at the beginner stage |
 | Matt Johnson | [itstriz](https://github.com/itstriz) ||
 | Matt Jones | [Marzipan](https://github.com/Marzipan) ||
